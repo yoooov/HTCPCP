@@ -19,6 +19,7 @@
 #include <netinet/in.h>
 #include <signal.h>
 #include <time.h>
+#include <pthread.h>
 #include "pot.c"
 
 

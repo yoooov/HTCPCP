@@ -1,2 +1,2 @@
-gcc -o htcpcp_server htcpcp_server.c -lpthread
-gcc -o client htcpcp_client.c
+/usr/bin/gcc -Wall -o htcpcp_server htcpcp_server.c -lpthread
+/usr/bin/gcc -Wall -o client htcpcp_client.c
